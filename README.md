@@ -3,6 +3,7 @@
 ## Introduction
 
 BifDraw is a Python application designed to generate bifurcation plots for the classical logistic equation and its q-generalizations.
+And it's located at ```bifdraw\bifdraw.py``` in this repository.
 
 ## Development Environment
 
